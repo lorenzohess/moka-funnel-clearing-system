@@ -6,7 +6,7 @@ _Problem:_ there's no good way to get used Moka pot grounds puck out of the funn
 
 _Solution:_ use Method 1 but replace the human with an foot-actuated air pump.
 
-[[./CAD Assembly.png][CAD Assembly]]
+[[./CAD Assembly.png]]
 
 Onshape link: [[https://cad.onshape.com/documents/1cc0ca99113a1dbb41a37d99/w/9d083b5dbfdb6ef9a2e9031e/e/23418b7f4e0655204f3c2b57][cad.onshape.com/documents/1cc0ca99113a1dbb41a37d99/w/9d083b5dbfdb6ef9a2e9031e/e/23418b7f4e0655204f3c2b57]] 
 
